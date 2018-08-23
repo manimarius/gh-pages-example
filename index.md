@@ -3,10 +3,6 @@ layout: default
 title: Example
 ---
 
-# Example project
+# The funniest man alive
 
-## News
-
-- Some event
-- Another exciting event
-- More news
+is unfortunately not me.
